@@ -151,7 +151,7 @@ Universidade --> UC_ExibirErro
 - Começando pela tela de login, podemos ver a homeopage do site da universidade. Ao clicar em “Sou novo aqui! Realizar cadastro.” podemos ver a seleção do tipo de cadastro sendo estes aluno, professor ou colaborador. Começando pelo perfil do tipo aluno podemos ver o formulário a ser preenchido. 
 ![aluno_2](https://github.com/hojeArthur/PiGrupo3/blob/main/prototipo_imagens/aluno_2.png?raw=true)
 - Preenchendo o CPF irá verificar no banco de dados se há uma matrícula emitida para este mesmo CPF, então se houver a caixa de texto irá ficar verde e irá aparecer um balão com uma mensagem informando que há uma matrícula vinculada. 
-![aluno_3](https://github.com/hojeArthur/PiGrupo3/blob/main/prototipo_imagens/aluno_3.png?raw=true)
+![aluno3](https://github.com/hojeArthur/PiGrupo3/blob/main/prototipo_imagens/aluno3.png?raw=true)
 - Outro campo responsivo para o tipo aluno é a data de nascimento, pois se for menor de 18 anos exige um cadastro de pessoa física responsável por este aluno. Como mostra na imagem a caixa de texto fica laranja e um novo formulário é aberto para preenchimento. 
 - Na tela seguinte é preenchido o endereço, e logo após, há uma tela para cadastro de e-mail, usuário e senha. 
 ![aluno_4](https://github.com/hojeArthur/PiGrupo3/blob/main/prototipo_imagens/aluno_4.png?raw=true)
